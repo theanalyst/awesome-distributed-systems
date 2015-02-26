@@ -10,7 +10,7 @@ Most links will tend to be readings on architecture itself rather than code itse
 - [Scalable Web Architecture and Distributed Systems](http://www.aosabook.org/en/distsys.html) [Free]
 
 ## Papers
-Must read papers on distributed systems (While nearly *all* of Lamport's work should feature here, just adding a few that *must* be read)
+Must read papers on distributed systems. While nearly *all* of Lamport's work should feature here, just adding a few that *must* be read.
 - [Times, Clocks and Ordering of Events in Distributed Systems](http://research.microsoft.com/en-us/um/people/lamport/pubs/time-clocks.pdf) Lamport's paper, the Quintessential distributed systems primer
 - [The Part Time Parliament](http://research.microsoft.com/en-us/um/people/lamport/pubs/lamport-paxos.pdf) Paxos
 
