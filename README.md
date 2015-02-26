@@ -20,6 +20,9 @@ Must read papers on distributed systems. While nearly *all* of Lamport's work sh
 - [Cassandra: A Decentralized Structured Storage System](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.161.6751&rep=rep1&type=pdf) Inspired heavily by Dynamo
 - [CRUSH: Controlled, Scalable, Decentralized Placement of Replicated Data](http://www.ssrc.ucsc.edu/Papers/weil-sc06.pdf), Basis of Ceph distributed storage system
 
+### Service Discovery & Coordination
+- [The Chubby Lock Service for loosely coupled distributed systems](http://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf) Inspiration behind ZK, etcd, Consul etc.
+
 ## Blogs and other reading links
 - [The C10K problem](http://www.kegel.com/c10k.html)
 - [On Designing and Deploying Internet-Scale Services](http://static.usenix.org/event/lisa07/tech/full_papers/hamilton/hamilton_html/)
