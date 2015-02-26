@@ -4,6 +4,11 @@ A (hopefully) curated list on awesome material on distributed systems, inspired 
 other awesome frameworks like [awesome-python](https://github.com/vinta/awesome-python).
 Most links will tend to be readings on architecture itself rather than code itself.
 
+## Bootcamp
+Read things here before you start.
+- [CAP Theorem](http://en.wikipedia.org/wiki/CAP_theorem), Also [plain english](http://ksat.me/a-plain-english-introduction-to-cap-theorem/) explanation # TODO add better links here
+- [Fallacies of Distributed Computing](http://en.wikipedia.org/wiki/Fallacies_of_distributed_computing) YES!! EXPECT EVERYTHING TO BREAK!!!
+
 ## Books
 - [Distributed Systems for fun and profit](http://book.mixu.net/distsys/single-page.html) [Free]
 - [Distributed Systems Principles and Paradigms, Andrew Tanenbaum](http://www.amazon.com/Distributed-Systems-Principles-Paradigms-2nd/dp/0132392275) [Amazon Link]
