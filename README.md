@@ -6,7 +6,7 @@ Most links will tend to be readings on architecture itself rather than code itse
 
 ## Bootcamp
 Read things here before you start.
-- [CAP Theorem](http://en.wikipedia.org/wiki/CAP_theorem), Also [plain english](http://ksat.me/a-plain-english-introduction-to-cap-theorem/) explanation # TODO add better links here
+- [CAP Theorem](http://en.wikipedia.org/wiki/CAP_theorem), Also [plain english](http://ksat.me/a-plain-english-introduction-to-cap-theorem/) explanation
 - [Fallacies of Distributed Computing](http://en.wikipedia.org/wiki/Fallacies_of_distributed_computing) YES!! EXPECT EVERYTHING TO BREAK!!!
 
 ## Books
