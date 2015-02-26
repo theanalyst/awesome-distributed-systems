@@ -7,4 +7,4 @@ Most links will tend to be readings on architecture itself rather than code itse
 ## Books
 - [Distributed Systems for fun and profit](http://book.mixu.net/distsys/single-page.html) [Free]
 - [Distributed Systems Principles and Paradigms, Andrew Tanenbaum](http://www.amazon.com/Distributed-Systems-Principles-Paradigms-2nd/dp/0132392275) [Amazon Link]
-- [Scalable Web Architecture and Distributed Systems](http://www.aosabook.org/en/distsys.html) 
+- [Scalable Web Architecture and Distributed Systems](http://www.aosabook.org/en/distsys.html) [Free]
