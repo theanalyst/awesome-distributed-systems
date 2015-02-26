@@ -29,6 +29,11 @@ Must read papers on distributed systems. While nearly *all* of Lamport's work sh
 ### Service Discovery & Coordination
 - [The Chubby Lock Service for loosely coupled distributed systems](http://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf) Inspiration behind ZK, etcd, Consul etc.
 
+## Courses
+- [Cloud Computing Concepts](https://class.coursera.org/cloudcomputing-001), University of Illinois
+- [CMU: Distributed Systems](http://www.cs.cmu.edu/~dga/15-440/F12/syllabus.html) in Go Programming Language
+- [Software Defined Networking](https://www.coursera.org/course/sdn) , Georgia Tech.
+
 ## Blogs and other reading links
 - [The C10K problem](http://www.kegel.com/c10k.html)
 - [On Designing and Deploying Internet-Scale Services](http://static.usenix.org/event/lisa07/tech/full_papers/hamilton/hamilton_html/)
