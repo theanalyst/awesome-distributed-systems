@@ -26,8 +26,10 @@ Must read papers on distributed systems. While nearly *all* of Lamport's work sh
 - [Cassandra: A Decentralized Structured Storage System](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.161.6751&rep=rep1&type=pdf) Inspired heavily by Dynamo
 - [CRUSH: Controlled, Scalable, Decentralized Placement of Replicated Data](http://www.ssrc.ucsc.edu/Papers/weil-sc06.pdf), Basis of Ceph distributed storage system
 
-### Service Discovery & Coordination
-- [The Chubby Lock Service for loosely coupled distributed systems](http://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf) Inspiration behind ZK, etcd, Consul etc.
+### Distributed Consensus
+- [The Chubby Lock Service for loosely coupled distributed systems](http://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf) Inspiration behind other Service Discovery & Coordination ZK, etcd, Consul etc.
+- [Paxos made live - An engineering perspective](http://research.google.com/archive/paxos_made_live.html) Google's learning while implementing systems atop of Paxos
+- [Raft Consensus Algorithm](https://raftconsensus.github.io/) Do checkout an [interesting visualization of raft](http://thesecretlivesofdata.com/raft/)
 
 ## Courses
 - [Cloud Computing Concepts](https://class.coursera.org/cloudcomputing-001), University of Illinois
