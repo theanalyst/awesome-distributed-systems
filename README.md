@@ -37,6 +37,6 @@ Must read papers on distributed systems. While nearly *all* of Lamport's work sh
 - [Software Defined Networking](https://www.coursera.org/course/sdn) , Georgia Tech.
 
 ## Blogs and other reading links
+- [Notes on Distributed Systems for Young Bloods](http://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
 - [The C10K problem](http://www.kegel.com/c10k.html)
 - [On Designing and Deploying Internet-Scale Services](http://static.usenix.org/event/lisa07/tech/full_papers/hamilton/hamilton_html/)
-- [Notes on Distributed Systems for Young Bloods](http://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
