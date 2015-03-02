@@ -45,3 +45,10 @@ Must read papers on distributed systems. While nearly *all* of Lamport's work sh
 - [Distributed Systems: Take Responsibility for Failover](http://ivolo.me/distributed-systems-take-responsibility-for-failover/)
 - [The C10K problem](http://www.kegel.com/c10k.html)
 - [On Designing and Deploying Internet-Scale Services](http://static.usenix.org/event/lisa07/tech/full_papers/hamilton/hamilton_html/)
+
+## Meta Lists
+Other lists like this one
+- [Readings in distributed systems](http://christophermeiklejohn.com/distributed/systems/2013/07/12/readings-in-distributed-systems.html)
+- [Distributed Systems meta list](https://gist.github.com/macintux/6227368)
+- [List of required readings for Distributed Systems](http://www.andrew.cmu.edu/course/15-749/READINGS/required/) Part of CMU's Engineering Distributed Systems course
+- [The Distributed Reader](http://reiddraper.github.io/distreader/)
