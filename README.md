@@ -36,7 +36,7 @@ Must read papers on distributed systems. While nearly *all* of Lamport's work sh
 - [Cloud Computing Concepts](https://class.coursera.org/cloudcomputing-001), University of Illinois
 - [CMU: Distributed Systems](http://www.cs.cmu.edu/~dga/15-440/F12/syllabus.html) in Go Programming Language
 - [Software Defined Networking](https://www.coursera.org/course/sdn) , Georgia Tech.
-- [ETH Zurich: Dsitributed Systems](http://dcg.ethz.ch/lectures/podc_allstars/)
+- [ETH Zurich: Distributed Systems](http://dcg.ethz.ch/lectures/podc_allstars/)
 
 ## Blogs and other reading links
 - [Notes on Distributed Systems for Young Bloods](http://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
