@@ -14,6 +14,7 @@ Read things here before you start.
 - [Distributed Systems for fun and profit](http://book.mixu.net/distsys/single-page.html) [Free]
 - [Distributed Systems Principles and Paradigms, Andrew Tanenbaum](http://www.amazon.com/Distributed-Systems-Principles-Paradigms-2nd/dp/0132392275) [Amazon Link]
 - [Scalable Web Architecture and Distributed Systems](http://www.aosabook.org/en/distsys.html) [Free]
+- [Principles of Distributed Systems](http://dcg.ethz.ch/lectures/podc_allstars/lecture/podc.pdf) [ETH Zurich University]
 
 ## Papers
 Must read papers on distributed systems. While nearly *all* of Lamport's work should feature here, just adding a few that *must* be read.
