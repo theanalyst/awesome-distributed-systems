@@ -57,5 +57,5 @@ Other lists like this one
 - [Distributed Systems meta list](https://gist.github.com/macintux/6227368)
 - [List of required readings for Distributed Systems](http://www.andrew.cmu.edu/course/15-749/READINGS/required/) Part of CMU's Engineering Distributed Systems course
 - [The Distributed Reader](http://reiddraper.github.io/distreader/)
-- [A Distributed Systems Reading List](https://dancres.github.io/Pages/)
-- [Distributed Systems Readings](https://henryr.github.io/distributed-systems-readings/)
+- [A Distributed Systems Reading List](https://dancres.github.io/Pages/), A collection of material, mostly papers on Distributed Systems Theory as well as seminal industry papers 
+- [Distributed Systems Readings](https://henryr.github.io/distributed-systems-readings/), A comprehensive list of online courses related to distributed systems 
