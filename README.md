@@ -16,6 +16,7 @@ Read things here before you start.
 - [Distributed Systems Principles and Paradigms, Andrew Tanenbaum](http://www.amazon.com/Distributed-Systems-Principles-Paradigms-2nd/dp/0132392275) [Amazon Link]
 - [Scalable Web Architecture and Distributed Systems](http://www.aosabook.org/en/distsys.html) [Free]
 - [Principles of Distributed Systems](http://dcg.ethz.ch/lectures/podc_allstars/lecture/podc.pdf) [ETH Zurich University]
+- [Making reliable distributed systems in the presence of software errors](http://www.erlang.org/download/armstrong_thesis_2003.pdf), Joe Amstrong's (Author of Erlang) PhD thesis 
 
 ## Papers
 Must read papers on distributed systems. While nearly *all* of Lamport's work should feature here, just adding a few that *must* be read.
