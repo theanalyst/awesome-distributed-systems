@@ -43,7 +43,7 @@ Must read papers on distributed systems. While nearly *all* of Lamport's work sh
 
 ### Testing
 While designing distributed systems are hard enough, testing them is even harder. 
-- [Drapper](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36356.pdf), A large scale distributed-systems tracing infrastructure, this is also the basis for the open source [Zipkin](http://zipkin.io/) tool
+- [Drapper](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36356.pdf), Google's large scale distributed-systems tracing infrastructure, this is also the basis for the open source [Zipkin](http://zipkin.io/) tool
 
 ## Courses
 - [Cloud Computing Concepts](https://class.coursera.org/cloudcomputing-001), University of Illinois
