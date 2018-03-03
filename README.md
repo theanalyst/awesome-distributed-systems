@@ -56,6 +56,10 @@ While designing distributed systems are hard enough, testing them is even harder
 - [Distributed Programming Model](http://web.cs.ucdavis.edu/~pandey/Research/Papers/icdcs01.pdf)
 - [PSync: a partially synchronous language for fault-tolerant distributed algorithms](http://www.di.ens.fr/~cezarad/popl16.pdf)
 
+### Verification in Distributed System
+- [Jepsen](https://github.com/jepsen-io/jepsen) A framework for distributed systems verification, with fault injection
+- [Verdi](http://verdi.uwplse.org/) A Framework for Implementing and Formally Verifying Distributed Systems [Paper](http://verdi.uwplse.org/verdi.pdf)
+
 ## Courses
 - [Reliable Distributed Algorithms, Part 1](https://www.edx.org/course/reliable-distributed-algorithms-part-1-kthx-id2203-1x-0), KTH Sweden
 - [Reliable Distributed Algorithms, Part 2](https://www.edx.org/course/reliable-distributed-algorithms-part-2-kthx-id2203-2x), KTH Sweden
