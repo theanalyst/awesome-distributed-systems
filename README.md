@@ -54,7 +54,7 @@ While designing distributed systems are hard enough, testing them is even harder
 
 ### Programming Model
 - [Distributed Programming Model](http://web.cs.ucdavis.edu/~pandey/Research/Papers/icdcs01.pdf)
-- [PSync: a partially synchronous language for fault-tolerant distributed algorithms](http://www.di.ens.fr/~cezarad/popl16.pdf)
+- [PSync: a partially synchronous language for fault-tolerant distributed algorithms](http://www.di.ens.fr/~cezarad/popl16.pdf) [Conference Video](https://www.youtube.com/watch?v=jxfq9_L9T1U&t=51s)
 - [Programming Models for Distributed Computing](http://heather.miller.am/teaching/cs7680/)
 
 ### Verification in Distributed System
