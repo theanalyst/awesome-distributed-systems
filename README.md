@@ -65,6 +65,9 @@ While designing distributed systems are hard enough, testing them is even harder
 
 ### Videos of Conference Talks
 - [Programming and Proving with Distributed Protocols](https://www.youtube.com/watch?v=zuuBEXhM4tU&t=492s), POPL 2018
+- [IronFleet: proving practical distributed systems correct](https://www.youtube.com/watch?v=KRmItldCU-Y), SoSP 2015
+- [Software Model Checking for Verifying Distributed Algorithms](https://www.youtube.com/watch?v=hTbI0t7pNtM), CMU Talk
+
 ## Courses
 - [Reliable Distributed Algorithms, Part 1](https://www.edx.org/course/reliable-distributed-algorithms-part-1-kthx-id2203-1x-0), KTH Sweden
 - [Reliable Distributed Algorithms, Part 2](https://www.edx.org/course/reliable-distributed-algorithms-part-2-kthx-id2203-2x), KTH Sweden
