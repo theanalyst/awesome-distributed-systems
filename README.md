@@ -53,7 +53,7 @@ Must read papers on distributed systems. While nearly *all* of Lamport's work sh
 While designing distributed systems are hard enough, testing them is even harder. 
 - [Dapper](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36356.pdf), Google's large scale distributed-systems tracing infrastructure, this was also the basis for the design of open source projects such as [Zipkin](http://zipkin.io/), [Pinpoint](https://github.com/naver/pinpoint) and [HTrace](http://htrace.incubator.apache.org/).
 
-### Programming Model
+### Programming Models
 - [Distributed Programming Model](http://web.cs.ucdavis.edu/~pandey/Research/Papers/icdcs01.pdf)
 - [PSync: a partially synchronous language for fault-tolerant distributed algorithms](http://www.di.ens.fr/~cezarad/popl16.pdf) Video: [Conference Video](https://www.youtube.com/watch?v=jxfq9_L9T1U&t=51s)
 - [Programming Models for Distributed Computing](http://heather.miller.am/teaching/cs7680/)
