@@ -59,8 +59,9 @@ While designing distributed systems are hard enough, testing them is even harder
 - [Programming Models for Distributed Computing](http://heather.miller.am/teaching/cs7680/)
 - [Logic and Lattices for Distributed Programming](http://db.cs.berkeley.edu/papers/UCB-lattice-tr.pdf)
 
-### Verification in Distributed System
+### Verification of Distributed Systems
 - [Jepsen](https://github.com/jepsen-io/jepsen) A framework for distributed systems verification, with fault injection
+  @aphyr has featured enough times in this list already, but Jepsen and the blog posts that go with are a quintessntial addition to any distributed systems reading list.
 - [Verdi](http://verdi.uwplse.org/) A Framework for Implementing and Formally Verifying Distributed Systems [Paper](http://verdi.uwplse.org/verdi.pdf)
 
 ## Courses
