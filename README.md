@@ -16,8 +16,8 @@ Read things here before you start.
 - [Distributed Systems for fun and profit](http://book.mixu.net/distsys/single-page.html) [Free]
 - [Distributed Systems Principles and Paradigms, Andrew Tanenbaum](http://www.amazon.com/Distributed-Systems-Principles-Paradigms-2nd/dp/0132392275) [Amazon Link]
 - [Scalable Web Architecture and Distributed Systems](http://www.aosabook.org/en/distsys.html) [Free]
-- [Principles of Distributed Systems](http://dcg.ethz.ch/lectures/podc_allstars/lecture/podc.pdf) [ETH Zurich University]
-- [Making reliable distributed systems in the presence of software errors](http://www.erlang.org/download/armstrong_thesis_2003.pdf), Joe Amstrong's (Author of Erlang) PhD thesis 
+- [Principles of Distributed Systems](http://dcg.ethz.ch/lectures/podc_allstars/lecture/podc.pdf) [Free] [ETH Zurich University]
+- [Making reliable distributed systems in the presence of software errors] [Free] (http://www.erlang.org/download/armstrong_thesis_2003.pdf), Joe Amstrong's (Author of Erlang) PhD thesis 
 - [Designing Data Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321) [Amazon Link]
 - [Distributed Computing, By Hagit Attiya and Jennifer Welch](http://hagit.net.technion.ac.il/publications/dc/)
 - [Distributed Algorithms, Nancy Lynch](https://www.amazon.com/Distributed-Algorithms-Kaufmann-Management-Systems/dp/1558603484) [Amazon Link]
