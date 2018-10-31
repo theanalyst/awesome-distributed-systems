@@ -67,6 +67,7 @@ While designing distributed systems are hard enough, testing them is even harder
 
 ## Videos
 - [Distributed Deep Dive](https://blog.ably.io/introducing-distributed-deep-dive-interview-series-by-ably-realtime-42e76d757045) interview series by [Ably Relatime](https://ably.io).
+- [Distributed Systems in One Lesson](https://www.youtube.com/watch?v=Y6Ev8GIlbxc&t=17s) Distributed Systems in One Lesson by Tim Berglund
 
 ## Courses
 - [Reliable Distributed Algorithms, Part 1](https://www.edx.org/course/reliable-distributed-algorithms-part-1-kthx-id2203-1x-0), KTH Sweden
