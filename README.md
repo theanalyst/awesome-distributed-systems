@@ -10,7 +10,8 @@ Read things here before you start.
 - [Fallacies of Distributed Computing](http://en.wikipedia.org/wiki/Fallacies_of_distributed_computing), expect things to break, *everything*
 - [Distributed systems theory for the distributed engineer](http://the-paper-trail.org/blog/distributed-systems-theory-for-the-distributed-systems-engineer/), most of the papers/books in the blog might reappear in this list again. Still a good BFS approach to distributed systems.
 - [FLP Impossibility Result (paper)](https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf), an easier [blog post](http://the-paper-trail.org/blog/a-brief-tour-of-flp-impossibility/) to follow along
-- [An Introduction to Distributed Systems](https://github.com/aphyr/distsys-class) @aphyr's excellent introduction to distributed systems 
+- [An Introduction to Distributed Systems](https://github.com/aphyr/distsys-class) @aphyr's excellent introduction to distributed systems
+- [A Guide to Consistent Hashing](https://www.toptal.com/big-data/consistent-hashing) Complete guide on consistent hashing
 
 ## Books
 - [Distributed Systems for fun and profit](http://book.mixu.net/distsys/single-page.html) [Free]
@@ -67,6 +68,7 @@ While designing distributed systems are hard enough, testing them is even harder
 
 ## Videos
 - [Distributed Deep Dive](https://blog.ably.io/introducing-distributed-deep-dive-interview-series-by-ably-realtime-42e76d757045) interview series by [Ably Relatime](https://ably.io).
+- [Distributed Systems in One Lesson](https://www.youtube.com/watch?v=Y6Ev8GIlbxc&t=17s) Distributed Systems in One Lesson by Tim Berglund
 
 ## Courses
 - [Reliable Distributed Algorithms, Part 1](https://www.edx.org/course/reliable-distributed-algorithms-part-1-kthx-id2203-1x-0), KTH Sweden
