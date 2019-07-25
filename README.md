@@ -53,7 +53,7 @@ Paraphrasing @fogus from their [blog](http://blog.fogus.me/2011/09/08/10-technic
 
 ### Testing, monitoring and tracing
 While designing distributed systems are hard enough, testing them is even harder. 
-- [Dapper](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36356.pdf), Google's large scale distributed-systems tracing infrastructure, this was also the basis for the design of open source projects such as [Zipkin](http://zipkin.io/), [Apache SkyWalking](https://github.com/apache/incubator-skywalking), [Pinpoint](https://github.com/naver/pinpoint) and [HTrace](http://htrace.incubator.apache.org/).
+- [Dapper](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36356.pdf), Google's large scale distributed-systems tracing infrastructure, this was also the basis for the design of open source projects such as [Zipkin](http://zipkin.io/), [Apache SkyWalking](https://github.com/apache/incubator-skywalking), [Pinpoint](https://github.com/naver/pinpoint) and [HTrace](http://htrace.incubator.apache.org/).
 
 ### Programming Models
 - [Distributed Programming Model](http://web.cs.ucdavis.edu/~pandey/Research/Papers/icdcs01.pdf)
