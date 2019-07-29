@@ -67,7 +67,7 @@ While designing distributed systems are hard enough, testing them is even harder
 - [Verdi](http://verdi.uwplse.org/) A Framework for Implementing and Formally Verifying Distributed Systems [Paper](http://verdi.uwplse.org/verdi.pdf)
 
 ## Videos
-- [Distributed Deep Dive](https://blog.ably.io/introducing-distributed-deep-dive-interview-series-by-ably-realtime-42e76d757045) interview series by [Ably Relatime](https://ably.io).
+- [Distributed Deep Dive](https://www.ably.io/blog/introducing-distributed-deep-dive-interview-series-by-ably-realtime/) interview series by [Ably Relatime](https://ably.io).
 - [Distributed Systems in One Lesson](https://www.youtube.com/watch?v=Y6Ev8GIlbxc&t=17s) Distributed Systems in One Lesson by Tim Berglund
 
 ## Courses
