@@ -23,6 +23,7 @@ Read things here before you start.
 - [Distributed Algorithms, Nancy Lynch](https://www.amazon.com/Distributed-Algorithms-Kaufmann-Management-Systems/dp/1558603484) [Amazon Link]
 - [Impossibility Results for Distributed Computing](http://www.morganclaypool.com/doi/abs/10.2200/S00551ED1V01Y201311DCT012) [paywall]
 - [Designing Distributed Systems, Brandon Burns](https://azure.microsoft.com/en-us/resources/designing-distributed-systems/) [Free with registration]
+- [Making Sense of Edge Computing](https://www.manning.com/books/making-sense-of-edge-computing)
 
 ## Papers
 Must read papers on distributed systems. While nearly *all* of Lamport's work should feature here, just adding a few that *must* be read.
