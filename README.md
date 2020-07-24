@@ -80,6 +80,8 @@ While designing distributed systems are hard enough, testing them is even harder
 - [Software Defined Networking](https://www.coursera.org/course/sdn) , Georgia Tech.
 - [ETH Zurich: Distributed Systems](http://dcg.ethz.ch/lectures/podc_allstars/)
 - [ETH Zurich: Distributed Systems Part 2](http://dcg.ethz.ch/lectures/distsys), covers  Distributed control algorithms, communication models, fault-tolerance among other things. In particular fault tolerance issues (models, consensus, agreement) and replication issues (2PC,3PC, Paxos), which are critical in understanding distributed systems are explained in great detail.
+- [Distributed Systems Course](http://www.distributedsystemscourse.com/), A beginner course on distributed system by Chris Colohan, A google employee who contributed to  SUIF, MapReduce, TCMalloc, Percolator, Caffeine, Borg, Omega, and Piper.
+
 
 ## Blogs and other reading links
 - [Amazon Builder's Library](https://aws.amazon.com/builders-library/), a collection of Amazon's learnings on distributed systems
