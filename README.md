@@ -19,11 +19,13 @@ Read things here before you start.
 - [Principles of Distributed Systems](http://dcg.ethz.ch/lectures/podc_allstars/lecture/podc.pdf) [Free] [ETH Zurich University]
 - [Making reliable distributed systems in the presence of software errors](http://www.erlang.org/download/armstrong_thesis_2003.pdf), [Free] Joe Amstrong's (Author of Erlang) PhD thesis 
 - [Designing Data Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321) [Amazon Link]
-- [Distributed Computing, By Hagit Attiya and Jennifer Welch](http://hagit.net.technion.ac.il/publications/dc/)
+- [Distributed Computing, Hagit Attiya and Jennifer Welch](http://hagit.net.technion.ac.il/publications/dc/)
 - [Distributed Algorithms, Nancy Lynch](https://www.amazon.com/Distributed-Algorithms-Kaufmann-Management-Systems/dp/1558603484) [Amazon Link]
 - [Impossibility Results for Distributed Computing](http://www.morganclaypool.com/doi/abs/10.2200/S00551ED1V01Y201311DCT012) [paywall]
-- [Designing Distributed Systems, Brandon Burns](https://azure.microsoft.com/en-us/resources/designing-distributed-systems/) [Free with registration]
+- [Designing Distributed Systems, Brendan Burns](https://azure.microsoft.com/en-us/resources/designing-distributed-systems/) [Free with registration]
 - [Making Sense of Edge Computing](https://www.manning.com/books/making-sense-of-edge-computing)
+- [Distributed Systems: Concepts and Design, George Coulouris](https://www.amazon.com/Distributed-Systems-Concepts-Design-5th/dp/0132143011) [Amazon Link]
+
 
 ## Papers
 Must read papers on distributed systems. While nearly *all* of Lamport's work should feature here, just adding a few that *must* be read.
@@ -101,6 +103,12 @@ While designing distributed systems are hard enough, testing them is even harder
 - [Files are hard](http://danluu.com/file-consistency/) A blog post on filesystem consistency, pretty important to read if you are into distributed storage or databases.
 - [Distributed Systems Testing: The Lost World](http://tagide.com/blog/research/distributed-systems-testing-the-lost-world/) Testing distributed systems are hard enough, a well researched blog post which again covers a lot of links to various approaches and other papers
 - [SWIM Protocol explained](https://asafdav2.github.io/2017/swim-protocol/) A blog post on popular SWIM failure detector
+
+
+## Research
+- [ACM Symposium on Principles of Distributed Computing (PODC) and International Symposium on Distributed Computing (DISC)](https://podc-disc.github.io/), a list of resources from PODC–DISC community including conference series, mailing lists, youtube, twitter, etc.
+- [IEEE International Parallel & Distributed Processing Symposium (IPDPS)](http://www.ipdps.org/), an international forum for engineers and scientists to present their latest research findings.
+- [Springer Distributed Computing Journal](https://www.springer.com/journal/446), a journal about theory, design, specification, and implementation of distributed systems.
 
 
 ## Meta Lists
