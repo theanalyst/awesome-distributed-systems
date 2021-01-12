@@ -6,7 +6,7 @@ Most links will tend to be readings on architecture itself rather than code itse
 
 ## Bootcamp
 Read things here before you start.
-- [CAP Theorem](http://en.wikipedia.org/wiki/CAP_theorem), Also [plain english](http://ksat.me/a-plain-english-introduction-to-cap-theorem/) explanation
+- [CAP Theorem](http://en.wikipedia.org/wiki/CAP_theorem), Also [plain english](http://ksat.me/a-plain-english-introduction-to-cap-theorem) explanation
 - [Fallacies of Distributed Computing](http://en.wikipedia.org/wiki/Fallacies_of_distributed_computing), expect things to break, *everything*
 - [Distributed systems theory for the distributed engineer](http://the-paper-trail.org/blog/distributed-systems-theory-for-the-distributed-systems-engineer/), most of the papers/books in the blog might reappear in this list again. Still a good BFS approach to distributed systems.
 - [FLP Impossibility Result (paper)](https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf), an easier [blog post](http://the-paper-trail.org/blog/a-brief-tour-of-flp-impossibility/) to follow along
@@ -14,14 +14,18 @@ Read things here before you start.
 
 ## Books
 - [Distributed Systems for fun and profit](http://book.mixu.net/distsys/single-page.html) [Free]
-- [Distributed Systems Principles and Paradigms, Andrew Tanenbaum](http://www.amazon.com/Distributed-Systems-Principles-Paradigms-2nd/dp/0132392275) [Amazon Link]
+- [Distributed Systems Principles and Paradigms, Andrew Tanenbaum](https://www.distributed-systems.net/index.php/books/ds3/) [Free with registration]
 - [Scalable Web Architecture and Distributed Systems](http://www.aosabook.org/en/distsys.html) [Free]
 - [Principles of Distributed Systems](http://dcg.ethz.ch/lectures/podc_allstars/lecture/podc.pdf) [Free] [ETH Zurich University]
 - [Making reliable distributed systems in the presence of software errors](http://www.erlang.org/download/armstrong_thesis_2003.pdf), [Free] Joe Amstrong's (Author of Erlang) PhD thesis 
 - [Designing Data Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321) [Amazon Link]
-- [Distributed Computing, By Hagit Attiya and Jennifer Welch](http://hagit.net.technion.ac.il/publications/dc/)
+- [Distributed Computing, Hagit Attiya and Jennifer Welch](http://hagit.net.technion.ac.il/publications/dc/)
 - [Distributed Algorithms, Nancy Lynch](https://www.amazon.com/Distributed-Algorithms-Kaufmann-Management-Systems/dp/1558603484) [Amazon Link]
-- [Impossibility Results for Distributed Computing](http://www.morganclaypool.com/doi/abs/10.2200/S00551ED1V01Y201311DCT012) (paywall)
+- [Impossibility Results for Distributed Computing](http://www.morganclaypool.com/doi/abs/10.2200/S00551ED1V01Y201311DCT012) [paywall]
+- [Designing Distributed Systems, Brendan Burns](https://azure.microsoft.com/en-us/resources/designing-distributed-systems/) [Free with registration]
+- [Making Sense of Edge Computing](https://www.manning.com/books/making-sense-of-edge-computing)
+- [Distributed Systems: Concepts and Design, George Coulouris](https://www.amazon.com/Distributed-Systems-Concepts-Design-5th/dp/0132143011) [Amazon Link]
+
 
 ## Papers
 Must read papers on distributed systems. While nearly *all* of Lamport's work should feature here, just adding a few that *must* be read.
@@ -78,8 +82,13 @@ While designing distributed systems are hard enough, testing them is even harder
 - [Software Defined Networking](https://www.coursera.org/course/sdn) , Georgia Tech.
 - [ETH Zurich: Distributed Systems](http://dcg.ethz.ch/lectures/podc_allstars/)
 - [ETH Zurich: Distributed Systems Part 2](http://dcg.ethz.ch/lectures/distsys), covers  Distributed control algorithms, communication models, fault-tolerance among other things. In particular fault tolerance issues (models, consensus, agreement) and replication issues (2PC,3PC, Paxos), which are critical in understanding distributed systems are explained in great detail.
+- [Distributed Systems Course](http://www.distributedsystemscourse.com/), A beginner course on distributed system by Chris Colohan, A google employee who contributed to  SUIF, MapReduce, TCMalloc, Percolator, Caffeine, Borg, Omega, and Piper.
+- [MIT 6.824](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-824-distributed-computer-systems-engineering-spring-2006/), [Youtube-playlist](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB) MIT distributed system lectures, in each video they discuss papers like GFS, Zookeeper, RAFT, Spanner...
+- [Distributed Systems](https://www.cl.cam.ac.uk/teaching/2021/ConcDisSys/), Lectures 9 to 16 of the Cambridge University lecture "Concurrent and Distributed Systems", given by Dr. Martin Kleppmann. [Youtube-playlist](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB). A computer science entrance course, covered basic models and algorithms in distributed systems, also discussed CRDT, collaboration software and google's spanner.
+
 
 ## Blogs and other reading links
+- [Amazon Builder's Library](https://aws.amazon.com/builders-library/), a collection of Amazon's learnings on distributed systems
 - [How we implemented consistent hashing efficiently](https://blog.ably.io/how-to-implement-consistent-hashing-efficiently-fe038d59fff2)
 - [Notes on Distributed Systems for Young Bloods](http://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
 - [High Scalability](http://highscalability.com/) Several architectures of huge internet services, for eg [twitter](http://highscalability.com/blog/2013/7/8/the-architecture-twitter-uses-to-deal-with-150m-active-users.html), [whatsapp](http://highscalability.com/blog/2014/2/26/the-whatsapp-architecture-facebook-bought-for-19-billion.html)
@@ -96,6 +105,12 @@ While designing distributed systems are hard enough, testing them is even harder
 - [SWIM Protocol explained](https://asafdav2.github.io/2017/swim-protocol/) A blog post on popular SWIM failure detector
 
 
+## Research
+- [ACM Symposium on Principles of Distributed Computing (PODC) and International Symposium on Distributed Computing (DISC)](https://podc-disc.github.io/), a list of resources from PODC–DISC community including conference series, mailing lists, youtube, twitter, etc.
+- [IEEE International Parallel & Distributed Processing Symposium (IPDPS)](http://www.ipdps.org/), an international forum for engineers and scientists to present their latest research findings.
+- [Springer Distributed Computing Journal](https://www.springer.com/journal/446), a journal about theory, design, specification, and implementation of distributed systems.
+
+
 ## Meta Lists
 Other lists like this one
 - [Readings in distributed systems](http://christophermeiklejohn.com/distributed/systems/2013/07/12/readings-in-distributed-systems.html)
@@ -104,3 +119,5 @@ Other lists like this one
 - [The Distributed Reader](http://reiddraper.github.io/distreader/)
 - [A Distributed Systems Reading List](https://dancres.github.io/Pages/), A collection of material, mostly papers on Distributed Systems Theory as well as seminal industry papers 
 - [Distributed Systems Readings](https://henryr.github.io/distributed-systems-readings/), A comprehensive list of online courses related to distributed systems 
+- [Awesome Distributed Consensus](https://github.com/dgryski/awesome-consensus), Another list of materials on distributed consensus protocols
+- [Distributed Systems Journey](https://github.com/ericdouglas/distributed-systems-journey) - 📚 Roadmap to becoming a distributed systems specialist 🎓
