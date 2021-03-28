@@ -75,8 +75,8 @@ While designing distributed systems are hard enough, testing them is even harder
 - [Distributed Systems in One Lesson](https://www.youtube.com/watch?v=Y6Ev8GIlbxc&t=17s) Distributed Systems in One Lesson by Tim Berglund
 
 ## Courses
-- [Reliable Distributed Algorithms, Part 1](https://www.edx.org/course/reliable-distributed-algorithms-part-1-kthx-id2203-1x-0), KTH Sweden
-- [Reliable Distributed Algorithms, Part 2](https://www.edx.org/course/reliable-distributed-algorithms-part-2-kthx-id2203-2x), KTH Sweden
+- [Reliable Distributed Algorithms, Part 1](https://learning.edx.org/course/course-v1:KTHx+ID2203.1x+3T_2017), KTH Sweden
+- [Reliable Distributed Algorithms, Part 2](https://learning.edx.org/course/course-v1:KTHx+ID2203.2x+2016T4), KTH Sweden
 - [Cloud Computing Concepts](https://class.coursera.org/cloudcomputing-001), University of Illinois
 - [CMU: Distributed Systems](http://www.cs.cmu.edu/~dga/15-440/F12/syllabus.html) in Go Programming Language
 - [Software Defined Networking](https://www.coursera.org/course/sdn) , Georgia Tech.
