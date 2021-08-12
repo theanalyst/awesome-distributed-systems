@@ -121,4 +121,4 @@ Other lists like this one
 - [A Distributed Systems Reading List](https://dancres.github.io/Pages/), A collection of material, mostly papers on Distributed Systems Theory as well as seminal industry papers 
 - [Distributed Systems Readings](https://henryr.github.io/distributed-systems-readings/), A comprehensive list of online courses related to distributed systems 
 - [Awesome Distributed Consensus](https://github.com/dgryski/awesome-consensus), Another list of materials on distributed consensus protocols
-- [Distributed Systems Journey](https://github.com/ericdouglas/distributed-systems-journey) - 📚 Roadmap to becoming a distributed systems specialist 🎓
+
