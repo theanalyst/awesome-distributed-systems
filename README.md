@@ -26,6 +26,7 @@ Read things here before you start.
 - [Designing Distributed Systems, Brendan Burns](https://azure.microsoft.com/en-us/resources/designing-distributed-systems/) [Free with registration]
 - [Making Sense of Edge Computing](https://www.manning.com/books/making-sense-of-edge-computing)
 - [Distributed Systems: Concepts and Design, George Coulouris](https://www.amazon.com/Distributed-Systems-Concepts-Design-5th/dp/0132143011) [Amazon Link]
+- [Akka in Action, Second Edition](https://www.manning.com/books/akka-in-action-second-edition) 
 
 
 ## Papers
