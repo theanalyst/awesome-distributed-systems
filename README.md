@@ -27,7 +27,7 @@ Read things here before you start.
 - [Making Sense of Edge Computing](https://www.manning.com/books/making-sense-of-edge-computing)
 - [Distributed Systems: Concepts and Design, George Coulouris](https://www.amazon.com/Distributed-Systems-Concepts-Design-5th/dp/0132143011) [Amazon Link]
 - [Akka in Action, Second Edition](https://www.manning.com/books/akka-in-action-second-edition) 
-
+- [Edge Computing Technology and Applications](https://www.manning.com/books/edge-computing-technology-and-applications) 
 
 ## Papers
 Must read papers on distributed systems. While nearly *all* of Lamport's work should feature here, just adding a few that *must* be read.
