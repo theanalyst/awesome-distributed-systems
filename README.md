@@ -26,7 +26,6 @@ Read things here before you start.
 - [Designing Distributed Systems, Brendan Burns](https://azure.microsoft.com/en-us/resources/designing-distributed-systems/) [Free with registration]
 - [Distributed Systems: Concepts and Design, George Coulouris](https://www.amazon.com/Distributed-Systems-Concepts-Design-5th/dp/0132143011) [Amazon Link]
 - [Akka in Action, Second Edition](https://www.manning.com/books/akka-in-action-second-edition) 
-- [Edge Computing Technology and Applications](https://www.manning.com/books/edge-computing-technology-and-applications) 
 - [Systemantics: how systems work and especially how they fail](https://openlibrary.org/books/OL4904457M/Systemantics)
 
 ## Papers
