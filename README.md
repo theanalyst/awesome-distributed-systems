@@ -56,6 +56,7 @@ Paraphrasing @fogus from their [blog](http://blog.fogus.me/2011/09/08/10-technic
 - [Paxos made live - An engineering perspective](http://research.google.com/archive/paxos_made_live.html) Google's learning while implementing systems atop of Paxos. Demonstrates various practical issues encountered while implementing a theoretical concept.
 - [Raft Consensus Algorithm](https://raftconsensus.github.io/) An alternative to Paxos for distributed consensus, that is much simpler to understand. Do checkout an [interesting visualization of raft](http://thesecretlivesofdata.com/raft/)
 - [Conflict-free Replicated Data Types](https://pages.lip6.fr/Marc.Shapiro/papers/RR-7687.pdf) presents an approach for Strong Eventual Consistency which as been applied in projects such as [Riak](http://basho.com/products/riak-kv/), [Redis](https://redis.io/) and [Akka](https://akka.io/). A great talk on the subject by Martin Kleppmann can be found [here](https://www.youtube.com/watch?v=B5NULPSiOGw)
+- Speculative algorithms for global state synchronizations [Azos.Sky.Server.Locking](https://github.com/azist/azos/tree/master/src/Azos.Sky.Server/Locking) uses probability based QOS (Quality of Service)/Trust measure to ensure probability-based consensus. The approach avoids distributed state machine/phase synchronization and is very simple to understand and implement
 
 ### Testing, monitoring and tracing
 While designing distributed systems are hard enough, testing them is even harder.
