@@ -42,7 +42,7 @@ Paraphrasing @fogus from their [blog](http://blog.fogus.me/2011/09/08/10-technic
 - [Cassandra: A Decentralized Structured Storage System](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.161.6751&rep=rep1&type=pdf) Inspired heavily by Dynamo, an now an open source
 - [CRUSH: Controlled, Scalable, Decentralized Placement of Replicated Data](http://www.ssrc.ucsc.edu/Papers/weil-sc06.pdf), the algorithm for the basis of Ceph distributed storage system, for the architecture itself read [RADOS](http://ceph.com/papers/weil-rados-pdsw07.pdf)
 - [LCL: A Lock Chain Length-based Distributed
-Algorithm for Deadlock Detection and Resolution](https://github.com/oceanbase/LCL/blob/master/LCL_full.pdf), LCL (Lock Chain Length), an elegant and generally applicable algorithm for resource deadlock detection and resolution in distributed environments without a restriction of the above kind
+Algorithm for Deadlock Detection and Resolution](https://github.com/oceanbase/LCL/blob/master/LCL_full.pdf), LCL (Lock Chain Length), an elegant and generally applicable algorithm for resource deadlock detection and resolution in distributed environments.
 
 ### Messaging systems
 - [The Log: What every software engineer should know about real-time data's unifying abstraction](http://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying), a somewhat long read, but covers brilliantly on logs, which are at the heart of most distributed systems
