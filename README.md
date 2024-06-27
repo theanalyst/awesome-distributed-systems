@@ -27,6 +27,7 @@ Read things here before you start.
 - [Distributed Systems: Concepts and Design, George Coulouris](https://www.amazon.com/Distributed-Systems-Concepts-Design-5th/dp/0132143011) [Amazon Link]
 - [Akka in Action, Second Edition](https://www.manning.com/books/akka-in-action-second-edition)
 - [Systemantics: how systems work and especially how they fail](https://openlibrary.org/books/OL4904457M/Systemantics)
+- [Think Distributed Systems](https://www.manning.com/books/think-distributed-systems)[Free with subscription]
 
 
 ## Papers
