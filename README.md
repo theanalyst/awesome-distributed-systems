@@ -25,10 +25,9 @@ Read things here before you start.
 - [Impossibility Results for Distributed Computing](http://www.morganclaypool.com/doi/abs/10.2200/S00551ED1V01Y201311DCT012) [paywall]
 - [Designing Distributed Systems, Brendan Burns](https://azure.microsoft.com/en-us/resources/designing-distributed-systems/) [Free with registration]
 - [Distributed Systems: Concepts and Design, George Coulouris](https://www.amazon.com/Distributed-Systems-Concepts-Design-5th/dp/0132143011) [Amazon Link]
-- [Akka in Action, Second Edition](https://www.manning.com/books/akka-in-action-second-edition)
+- [Akka in Action, Second Edition](https://www.manning.com/books/akka-in-action-second-edition) 
 - [Systemantics: how systems work and especially how they fail](https://openlibrary.org/books/OL4904457M/Systemantics)
 - [Think Distributed Systems](https://www.manning.com/books/think-distributed-systems)[Free with subscription]
-
 
 ## Papers
 Must read papers on distributed systems. While nearly *all* of Lamport's work should feature here, just adding a few that *must* be read.
