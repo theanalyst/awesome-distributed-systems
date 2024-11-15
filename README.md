@@ -1,8 +1,8 @@
 # awesome-distributed-systems
 
-A (hopefully) curated list on awesome material on distributed systems, inspired by
+A (hopefully) curated list of awesome material on distributed systems, inspired by
 other awesome frameworks like [awesome-python](https://github.com/vinta/awesome-python).
-Most links will tend to be readings on architecture itself rather than code itself.
+Most links will tend to be readings on architecture itself rather than code.
 
 ## Bootcamp
 Read things here before you start.
