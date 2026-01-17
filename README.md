@@ -125,4 +125,5 @@ Other lists like this one
 - [A Distributed Systems Reading List](https://dancres.github.io/Pages/), A collection of material, mostly papers on Distributed Systems Theory as well as seminal industry papers
 - [Distributed Systems Readings](https://henryr.github.io/distributed-systems-readings/), A comprehensive list of online courses related to distributed systems
 - [Awesome Distributed Consensus](https://github.com/dgryski/awesome-consensus), Another list of materials on distributed consensus protocols
+- [Hiero Consensus Standards](https://github.com/hiero-ledger/hiero-consensus-specifications), Open specifications for data formats and protocols on the Hiero network including file storage, registries, AI agent communication, and NFT inscriptions
 - [Beginner's Guide to Distributed Systems](https://techbelle.medium.com/one-beginners-guide-to-learning-about-distributed-systems-7c8528c2fcaf) A blog post with some useful getting started links for distributed systems
