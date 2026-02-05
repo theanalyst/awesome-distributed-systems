@@ -47,6 +47,9 @@ Paraphrasing @fogus from their [blog](http://blog.fogus.me/2011/09/08/10-technic
 - [The Log: What every software engineer should know about real-time data's unifying abstraction](http://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying), a somewhat long read, but covers brilliantly on logs, which are at the heart of most distributed systems
 - [Kafka: a Distributed Messaging System for Log Processing](http://notes.stephenholiday.com/Kafka.pdf)
 
+### Operating Systems
+- [HyperAgency](https://github.com/vuics/h9y) - distributed agentic AI operating system (h9y.ai).
+  
 ### Distributed Consensus and Fault-Tolerance
 - [Practical Byzantine Fault Tolerance](http://pmg.csail.mit.edu/papers/osdi99.pdf)
 - [The Byzantine Generals Problem](https://lamport.azurewebsites.net/pubs/byz.pdf)
@@ -68,6 +71,7 @@ While designing distributed systems are hard enough, testing them is even harder
 - [PSync: a partially synchronous language for fault-tolerant distributed algorithms](http://www.di.ens.fr/~cezarad/popl16.pdf) Video: [Conference Video](https://www.youtube.com/watch?v=jxfq9_L9T1U&t=51s)
 - [Programming Models for Distributed Computing](http://heather.miller.am/teaching/cs7680/)
 - [Logic and Lattices for Distributed Programming](http://db.cs.berkeley.edu/papers/UCB-lattice-tr.pdf)
+
 
 ### Verification of Distributed Systems
 - Curated list of resources on [testing distributed systems](https://asatarin.github.io/testing-distributed-systems/) includes links to materials on testing by various companies (Google, Amazon, Netflix, Microsoft, Dropbox, etc) and research papers.
