@@ -4,6 +4,7 @@ A (hopefully) curated list on awesome material on distributed systems, inspired 
 other awesome frameworks like [awesome-python](https://github.com/vinta/awesome-python).
 Most links will tend to be readings on architecture itself rather than code itself.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts implementing distributed multi-agent orchestration with task delegation, health checks, and consensus-based quality gates. MIT licensed.
 ## Bootcamp
 Read things here before you start.
 - [CAP Theorem](http://en.wikipedia.org/wiki/CAP_theorem), Also [plain english](http://ksat.me/a-plain-english-introduction-to-cap-theorem) explanation
