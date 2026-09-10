@@ -90,6 +90,7 @@ While designing distributed systems are hard enough, testing them is even harder
 - [Distributed Systems Course](http://www.distributedsystemscourse.com/), A beginner course on distributed system by Chris Colohan, A google employee who contributed to  SUIF, MapReduce, TCMalloc, Percolator, Caffeine, Borg, Omega, and Piper.
 - [MIT 6.824](https://pdos.csail.mit.edu/6.824/), [Youtube-playlist](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB) MIT distributed system lectures, in each video they discuss papers like GFS, Zookeeper, RAFT, Spanner...
 - [Distributed Systems](https://www.cl.cam.ac.uk/teaching/2021/ConcDisSys/), Lectures 9 to 16 of the Cambridge University lecture "Concurrent and Distributed Systems", given by Dr. Martin Kleppmann. [Youtube-playlist](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB). A computer science entrance course, covered basic models and algorithms in distributed systems, also discussed CRDT, collaboration software and google's spanner.
+- [Wyrcan Engineering Roadmap](https://github.com/Wyrcan-io/roadmap), Text-first 12-stage engineering curriculum grounded in Designing Data-Intensive Applications (DDIA), Linux internals, and production cloud architecture.
 
 
 ## Blogs and other reading links
