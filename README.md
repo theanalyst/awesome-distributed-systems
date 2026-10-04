@@ -108,6 +108,7 @@ While designing distributed systems are hard enough, testing them is even harder
 - [Files are hard](http://danluu.com/file-consistency/) A blog post on filesystem consistency, pretty important to read if you are into distributed storage or databases.
 - [Distributed Systems Testing: The Lost World](http://tagide.com/blog/research/distributed-systems-testing-the-lost-world/) Testing distributed systems are hard enough, a well researched blog post which again covers a lot of links to various approaches and other papers
 - [SWIM Protocol explained](https://asafdav2.github.io/2017/swim-protocol/) A blog post on popular SWIM failure detector
+- [Distributed Systems Notes](https://harut8.github.io/system-design/distributed-systems/) Free notes on system models, replication and consistency, Raft, sagas and the outbox pattern, sharding, stream processing and multi-region, each with hands-on labs
 
 
 ## Research
