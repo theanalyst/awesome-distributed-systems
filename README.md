@@ -111,6 +111,7 @@ While designing distributed systems are hard enough, testing them is even harder
 
 
 ## Research
+- [ECLYPSE: A Python Framework for Simulation and Emulation of the Cloud-Edge Continuum](https://doi.org/10.1002/smr.70081), a paper describing and evaluating a Python framework for studying service placement and resource changes in distributed cloud-edge applications through simulation and emulation.
 - [ACM Symposium on Principles of Distributed Computing (PODC) and International Symposium on Distributed Computing (DISC)](https://podc-disc.github.io/), a list of resources from PODC–DISC community including conference series, mailing lists, youtube, twitter, etc.
 - [IEEE International Parallel & Distributed Processing Symposium (IPDPS)](http://www.ipdps.org/), an international forum for engineers and scientists to present their latest research findings.
 - [Springer Distributed Computing Journal](https://www.springer.com/journal/446), a journal about theory, design, specification, and implementation of distributed systems.
